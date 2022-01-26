@@ -6,4 +6,4 @@
 
 # Preview of the project
 
-![Preview](img/preview.png)
+![Preview](./img/preview.png)
