@@ -5,6 +5,7 @@
 - CSS Grid Layout
 
 <br />
+
 ## Preview of the project
 
 ![preview](./img/preview.png)
