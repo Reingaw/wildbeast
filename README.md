@@ -4,6 +4,7 @@
 - CSS3
 - CSS Grid Layout
 
-# Preview of the project
+<br />
+## Preview of the project
 
-![Preview](img/preview.png)
+![preview](./img/preview.png)
